@@ -1,0 +1,22 @@
+{
+	"BounceTypes":[
+		{
+			"list number" : "0",
+			"duration" : "20",
+			"fpt" : "16",
+			"divition factor": "1.5",
+			"gravity" : "-9.81",
+			"initial velocity" : "72",
+			"trailing frames" : "15"
+		},
+		{
+			"list number" : "1",
+			"duration" : "20",
+			"fpt" : "6",
+			"divition factor": "8",
+			"gravity" : "-9.81",
+			"initial velocity" : "72",
+			"trailing frames" : "15"
+		}
+	]
+}
